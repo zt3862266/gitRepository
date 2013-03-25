@@ -1,1 +1,1 @@
-just personaal blog!
+just personal blog!
