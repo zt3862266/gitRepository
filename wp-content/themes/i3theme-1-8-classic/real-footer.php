@@ -1,0 +1,2 @@
+<a href="http://www.i3theme.com">i3Theme</a> sponsored by <a href="http://www.web-hosting-top.com/">Top 10 Web Hosting</a> and <a href="http://www.colombiahosting.com.co/" title="Colombia Hosting">Hosting</a> in Colombia</div>
+	</div>

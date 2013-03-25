@@ -1,0 +1,19 @@
+/*
+Theme Name: iCool
+Theme URI: http://demo.fauzy.info/iCool/
+Description: 主题由<a href="http://www.fightcn.com">奋斗中文网</a>提供.
+Version: 1.0
+Author: Dalih Susilo
+Tags: mac style color, two columns, full widgets, no plugins required
+*/
+
+
+/* import stylesheets and hide from IE/Mac \*/
+
+@import url("css/reset-min.css");
+@import url("css/base-min.css");
+@import url("css/enhancements-min.css");
+@import url("css/menu-min.css");
+@import url("css/stack-min.css");
+
+/* end import/hide */

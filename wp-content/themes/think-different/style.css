@@ -1,0 +1,112 @@
+/*  
+Theme Name: Think Different
+Theme URI: http://www.telidesign.com/?p=85
+Description: Theme based on the Mac browser.
+Version: 1.0
+Author: Teli Adlam
+Author URI: http://www.telidesign.com/
+
+	Think Different v1.0
+
+	This theme was designed and built by Teli Adlam,
+	whose blog you will find at http://www.mildinsanity.com/
+
+	This theme is copyright Teli Adlam, all rights reserved.
+	
+	This theme may not be sold or used for commercial purposes.
+	You are granted permission to use, edit, and modify this theme 
+	as long as the included attribution links in the template and CSS 
+	files remain intact. 
+	
+	A lot of work has gone into this theme, it's not too much to ask 
+	that the links remain in place. Thank you and enjoy.
+	
+	Please feel free to contact me should you have any 
+	questions: http://www.telidesign.com/contact/
+*/
+
+body {background: #eee; font: 75%/145% verdana, arial, geneva, sans-serif; margin: 25px 0; padding: 0; text-align: center; /* IE centering Pt I */}
+p, ul, li, td, tr, dl, dh {color: #555; word-spacing: 0.15em;}
+input, select, textarea {font-family: verdana, arial, geneva, sans-serif; font-size: 95%; margin: 2px; padding: 2px;}
+h1, h2, h3, h4, h5, h6 {font-family: arial, geneva, sans-serif;}
+h1 {font-size: 175%; font-weight: normal;}
+h2 {font-size: 150%; font-weight: normal;}
+h3 {font-size: 125%; font-weight: normal;}
+h4 {font-size: 115%; font-weight: normal;}
+acronym, abbr, span.caps {cursor: help;}
+acronym, abbr {border-bottom: 1px solid dotted;}
+blockquote {border-left: 5px solid #ddd; margin: 15px 30px 0 10px; padding-left: 20px;}
+blockquote cite {display: block; margin: 5px 0 0;}
+a {color: #9cf;}
+a:hover {color: #999;}
+a img {border: 0;}
+
+#wrap {border: 1px solid #ccc; margin: 0 auto; width: 760px; text-align: left; /* IE centering Pt II */}
+.navigation {border: 1px solid #ddd; border-left: 0; border-right: 0; padding: 3px 0; text-align: center;}
+.navigation a {text-decoration: none;}
+
+/* header */
+#header {height: 157px; margin: 0; padding: 0; position: relative;}
+#header h1 {margin: 0 310px 0 15px; padding: 15px 0 5px; text-align: ;}
+#header h1 a {color: #B9443D; color: #888; text-decoration: none;}
+#header h1 a:hover {color: #555;}
+#header p.tagline {margin: 0 310px 0 15px; padding: 0; text-align: ;}
+
+/* content */
+#content {float: right; margin: 0 15px 40px 0; width: 525px;}
+#content a {color: #9cf;}
+#content a:hover {color: #999;}
+
+/* posts */
+.post {margin: 5px 0 35px;}
+.post-title {border-bottom: 1px solid #ddd; margin: 5px 0; padding: 3px 0;}
+.post-title a {text-decoration: none;}
+.post-content a {font-weight: bold;}
+.post-meta {background: #eee; border-top: 1px solid #ddd; font-size: 80%; padding: 5px;}
+.post-meta a {font-weight: normal;}
+.pagetitle {text-align: center;}
+
+/* comments */
+.closed {color: #999;}
+.commentlist {margin: 15px 0 15px 15px; padding: 0;}
+.alt {background: #f1f1f1; border: 1px solid #ddd; border-right: 0; border-left: 0;}
+.commentlist li {list-style: inside decimal; margin: 10px 0 30px; padding: 10px;}
+.commentlist cite {color: #888; font-family: arial, geneva, sans-serif; font-size: 130%; font-style: normal;}
+.comment-meta {font-size: 75%; margin: 0; padding: 0;}
+#comments, #respond {border-bottom: 1px solid #ddd; padding: 5px 0;}
+#commentform p {margin: 2px 0 5px;}
+#commentform label {font-weight: bold;}
+#commentform input {background: #fff; border: 1px solid #777; width: 50%;}
+#commentform textarea#comment {background: #fff; border: 1px solid #777; width: 96%;}
+#commentform #submit {width: auto; padding: 2px;}
+
+/* sidebar */
+#sidebar {float: left; font-size: 90%; margin: 0 0 0 5px; width: 150px;}
+#sidebar a {color: #888; text-decoration: none;}
+#sidebar a:hover {color: #555;}
+#sidebar ul, #sidebar ul ol {list-style: none; margin: 0; padding: 0;}
+#sidebar ul li {margin-bottom: 25px;}
+#sidebar ul li h2 {border-bottom: 1px solid #bbb; font-size: 120%; margin: 0; padding: 2px 0;}
+#sidebar ul ul {margin: 0 0 0 10px;}
+#sidebar ul ul li, #sidebar ul ol li {margin: 2px 0;}
+#sidebar ol li, #sidebar ul ol li {list-style: decimal outside;}
+#sidebar ul ul ul {margin: 0 0 0 10px;}
+
+/* search form */
+#searchform {width: 300px; position: absolute; top: 15px; right: 15px; text-align: right;}
+#searchform input {background: #fff; border: 1px solid #777;}
+#searchform #s {width: 275px;}
+
+/* footer */
+#footer {clear: both; font-size: 75%; text-align: center; padding: 10px 0;}
+#footer a {color: #777; text-decoration: none;}
+#footer a:hover {text-decoration: underline;}
+#footer p {margin: 0; padding: 0;}
+
+/* images */
+p img {margin: 0; max-width: 100%;}
+img.centered {display: block; margin: 0 auto;}
+img.right {padding: 4px; margin: 0 0 5px 10px; display: inline;}
+img.left {padding: 4px; margin: 0 10px 5px 0; display: inline;}
+.right {float: right;}
+.left {float: left;}
